@@ -1,1 +1,1 @@
-print("Hello web3 world")
+print("Hello web3 world!")
